@@ -22,5 +22,4 @@ porém, a IA não consegue escrever as palavras, ficando distorcido e não é po
 * Criação de uma imagem original para o E-Book;
 * Obtive um maior conhecimento sobre as divisões de treino para todos os tipos de pessoas e como cada uma deve ser usada.
 
-- [DIVISÕES DE TREINO, O GUIA DEFINITIVO](DIVISÕES_DE_TREINO,_O_GUIA_DEFINITIVO.pdf)
 
